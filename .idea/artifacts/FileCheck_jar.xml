@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FileCheck:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileCheck_jar</output-path>
+    <root id="archive" name="FileCheck.jar">
+      <element id="module-output" name="FileCheck" />
+    </root>
+  </artifact>
+</component>
