@@ -21,6 +21,7 @@ public class FileCHecker {
         BufferedImage image = null;
         try
         {
+
             image = ImageIO.read(new File("res//icon.gif"));
         }
         catch (Exception e)
